@@ -1,0 +1,8 @@
+../Core/Src/shell.c:33:13:uart_read	1
+../Core/Src/shell.c:46:12:uart_write	1
+../Core/Src/shell.c:51:12:sh_help	2
+../Core/Src/shell.c:62:5:shell_init	2
+../Core/Src/shell.c:78:5:shell_add	2
+../Core/Src/shell.c:90:12:shell_exec	6
+../Core/Src/shell.c:124:5:shell_run	6
+../Core/Src/shell.c:172:6:shell_uart_receive_irq_cb	2
